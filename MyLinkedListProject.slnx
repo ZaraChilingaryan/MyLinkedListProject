@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="MyLinkedListProject/MyLinkedListProject.csproj" />
+  <Project Path="MyStackTesting/MyStackTesting.csproj" />
+  <Project Path="PostfixProject/PostfixProject.csproj" />
+</Solution>
