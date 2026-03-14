@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 
 namespace LinkedListLibrary;
@@ -10,7 +11,6 @@ public class MyStack<T> : IEnumerable<T>
     public int Count => _items.Count;
 
     public bool IsEmpty => Count == 0;
-
 
     public MyStack()
     {
@@ -34,9 +34,9 @@ public class MyStack<T> : IEnumerable<T>
         if (_items.Count == 0)
             throw new InvalidOperationException("Stack is empty");
 
-        var itemRemove = _items.Head!.Value;
+        T value = _items.Head!.Value;
         _items.RemoveFirst();
-        return itemRemove;
+        return value;
     }
 
     public T Peek()
@@ -50,7 +50,9 @@ public class MyStack<T> : IEnumerable<T>
     public void Clear()
     {
         while (!IsEmpty)
+        {
             Pop();
+        }
     }
 
     public IEnumerator<T> GetEnumerator()

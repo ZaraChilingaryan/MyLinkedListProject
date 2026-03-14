@@ -1,5 +1,8 @@
 <Solution>
+  <Project Path="MyBinaryTree/MyBinaryTreeProject.csproj" Id="bdb1bb03-a730-42b1-aefb-9c9cc2fbbc35" />
   <Project Path="MyLinkedListProject/MyLinkedListProject.csproj" />
+  <Project Path="MyQuene/MyQueneProject.csproj" Id="435f7271-72a9-44b1-b136-232c355a0640" />
+  <Project Path="MyStackProject/MyStackProject.csproj" Id="f317b8a5-8a72-4974-9818-39cb5d459474" />
   <Project Path="MyStackTesting/MyStackTesting.csproj" />
   <Project Path="PostfixProject/PostfixProject.csproj" />
 </Solution>
