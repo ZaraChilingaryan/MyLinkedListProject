@@ -1,11 +1,16 @@
 <Solution>
   <Project Path="MyBinaryTree/MyBinaryTreeProject.csproj" Id="bdb1bb03-a730-42b1-aefb-9c9cc2fbbc35" />
   <Project Path="MyBinaryTreeTesting/MyBinaryTreeTesting.csproj" Id="41160f67-91fc-49f9-a3a5-c7eef2ee6e8e" />
+  <Project Path="MyBubbleSortProject/MyBubbleSortProject.csproj" Id="4923a3c5-70e3-469a-8174-e344ede3e7de" />
   <Project Path="MyHashTableProject/MyHashTableProject.csproj" Id="efeb725f-3288-4d8c-94b4-1b6042ec8144" />
+  <Project Path="MyInsertionSortProject/MyInsertionSortProject.csproj" Id="868b8078-0e5b-4f5f-941f-8afb27044b87" />
   <Project Path="MyLinkedListProject/MyLinkedListProject.csproj" />
   <Project Path="MyLinkedListTest/MyLinkedListTesting.csproj" Id="ab340619-39c2-431a-864b-7b107ca96565" />
+  <Project Path="MyPriorityQueue/MyPriorityQueueProject.csproj" Id="884ab337-bcf0-4e6e-9db3-8bd4165516ce" />
   <Project Path="MyQuene/MyQueneProject.csproj" Id="435f7271-72a9-44b1-b136-232c355a0640" />
   <Project Path="MyQueneTesting/MyQueneTesting.csproj" Id="4daabc22-b887-4ae2-92e5-2e87ff79e1f8" />
+  <Project Path="MySetProject/MySetProject.csproj" Id="5bd56c44-176e-4c0e-83c2-21f3d6c786d6" />
+  <Project Path="MySetWpf/MySetWpf.csproj" Id="05ad2b9d-dbd7-4940-9a78-46f1be491ff6" />
   <Project Path="MyStackProject/MyStackProject.csproj" Id="f317b8a5-8a72-4974-9818-39cb5d459474" />
   <Project Path="MyStackTesting/MyStackTesting.csproj" />
   <Project Path="PostfixProject/PostfixProject.csproj" />

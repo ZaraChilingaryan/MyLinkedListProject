@@ -70,6 +70,7 @@ namespace LinkedListLibrary;
         }
     }
 
+
     IEnumerator IEnumerable.GetEnumerator()
     {
         return ((IEnumerable<T>)this).GetEnumerator();
