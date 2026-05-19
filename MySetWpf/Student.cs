@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SetDemo
+namespace MySetWpf
 {
     public class Student : IComparable<Student>
     {
@@ -28,9 +28,5 @@ namespace SetDemo
         }
     }
 
-    public enum Gender
-    {
-        Male,
-        Female
-    }
+
 }
